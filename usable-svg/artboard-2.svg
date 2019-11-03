@@ -1,0 +1,177 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1300 700">
+  <defs>
+    <style>
+      .cls-1, .cls-13, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #040322;
+        stroke: #231f20;
+      }
+
+      .cls-13, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke: #f29f99;
+      }
+
+      .cls-5 {
+        font-size: 100.8px;
+        stroke: #494458;
+      }
+
+      .cls-16, .cls-5 {
+        font-family: Montserrat-Black, Montserrat;
+        font-weight: 800;
+      }
+
+      .cls-6 {
+        stroke: #f7edda;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        stroke: #d92838;
+      }
+
+      .cls-14 {
+        opacity: 0.23;
+      }
+
+      .cls-15 {
+        opacity: 0.73;
+      }
+
+      .cls-16 {
+        opacity: 0.69;
+        font-size: 60.12px;
+        fill: #f7edda;
+      }
+
+      .cls-17 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-19 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-20 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(713.82 0.5)">
+      <rect class="cls-1" x="0" width="1300" height="700"/>
+    </clipPath>
+  </defs>
+  <title>2-clipped</title>
+  <g class="cls-2">
+    <g>
+      <rect class="cls-3" x="713.82" y="0.5" width="1300" height="700"/>
+      <g>
+        <circle class="cls-2" cx="451.38" cy="507.26" r="25">
+          <animate
+            attributeName="r"
+            attributeType="XML"
+            from="25"
+            to="82.21"
+            begin="0s"
+            dur="2s"
+            fill="freeze"
+            repeatCount="indefinite"
+          />
+          <animate
+            attributeName="stroke"
+            attributeType="XML"
+            to="#d92838"
+            begin="0s"
+            dur="2s"
+            fill="freeze"
+            repeatCount="indefinite"
+          />
+        </circle>
+        <circle class="cls-2" cx="451.38" cy="507.26" r="58.13">
+          <animate
+            attributeName="r"
+            attributeType="XML"
+            from="15"
+            to="58.13"
+            begin="0s"
+            dur="2s"
+            fill="freeze"
+            repeatCount="indefinite"
+          />
+          <animate
+            attributeName="stroke"
+            attributeType="XML"
+            to="#d92838"
+            begin="0s"
+            dur="2s"
+            fill="freeze"
+            repeatCount="indefinite"
+          />
+        </circle>
+      </g>
+      <text class="cls-5" transform="translate(0.5 685.9)">GROUPGUESSGROUP<tspan class="cls-6" x="1140.84" y="0">GUESS</tspan><tspan x="1497.67" y="0">GROUPGUESSGROUPGUESS</tspan></text>
+      <text class="cls-5" transform="translate(720.39 89.14)"><tspan class="cls-7">T<tspan class="cls-8" x="62.4" y="0">ASKNUMBER:</tspan></tspan><tspan x="0" y="120.96">1</tspan><tspan class="cls-9" x="42.13" y="120.96">4C</tspan><tspan class="cls-10" x="190.91" y="120.96">.</tspan><tspan class="cls-11" x="220.04" y="120.96">0</tspan><tspan x="288.78" y="120.96">1</tspan><tspan class="cls-10" x="330.92" y="120.96">.</tspan><tspan class="cls-12" x="360.05" y="120.96">05</tspan></text>
+      <g>
+        <rect class="cls-13" x="1576.77" y="72.99" width="259.22" height="259.22"/>
+        <rect class="cls-13" x="1601.41" y="97.63" width="209.93" height="209.93"/>
+        <rect class="cls-13" x="1626.23" y="122.46" width="160.29" height="160.29"/>
+      </g>
+      <g>
+        <image class="cls-14" width="1796" height="1130" transform="translate(1222.1 145.15) scale(0.29 0.3)" xlink:href="./usable-svg/imgs/2-clipped1.png"/>
+        <image class="cls-15" width="1796" height="1130" transform="translate(1197.35 170.06) scale(0.29 0.3)" xlink:href="./usable-svg/imgs/2-clipped2.png"/>
+        <image width="1796" height="1130" transform="translate(1164.7 202.6) scale(0.3)" xlink:href="./usable-svg/imgs/codevid.png"/>
+      </g>
+      <g id="Rect_Cut" data-name="Rect Cut">
+        <g>
+          <g>
+            <rect class="cls-4" x="985.57" y="569.21" width="64.04" height="64.04"/>
+            <line class="cls-4" x1="985.5" y1="569.14" x2="1049.54" y2="633.33"/>
+          </g>
+          <line class="cls-4" x1="985.5" y1="633.33" x2="1049.54" y2="569.14"/>
+        </g>
+      </g>
+      <text class="cls-16" transform="translate(806.05 122.46)"><tspan class="cls-17">T</tspan><tspan x="37.21" y="0">ASKNUMBER:</tspan><tspan x="0" y="72.14">1</tspan><tspan class="cls-18" x="25.13" y="72.14">4C</tspan><tspan class="cls-19" x="113.86" y="72.14">.</tspan><tspan class="cls-20" x="131.23" y="72.14">0</tspan><tspan class="cls-21" x="172.23" y="72.14">1</tspan><tspan class="cls-19" x="197.36" y="72.14">.</tspan><tspan x="214.73" y="72.14">05</tspan></text>
+    </g>
+  </g>
+</svg>

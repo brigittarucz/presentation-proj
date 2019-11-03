@@ -1,239 +1,163 @@
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1300 700">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1302.76 763.77">
   <defs>
-    <clipPath id="clip-path">
-      <rect width="1299" height="699" style="fill: none"/>
+    <style>
+      .cls-1, .cls-11, .cls-4, .cls-5, .cls-8 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #040322;;
+        stroke: #231f20;
+      }
+
+      .cls-11, .cls-3, .cls-4, .cls-5, .cls-8 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke: #35c1d5;
+      }
+
+      .cls-5, .cls-8 {
+        font-size: 196.79px;
+        font-family: Montserrat-Black, Montserrat;
+        font-weight: 800;
+      }
+
+      .cls-11, .cls-5 {
+        stroke: #494458;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-8 {
+        stroke: #f29f99;
+      }
+
+      .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        fill: #35c1d5;
+      }
+
+      .cls-11 {
+        stroke-width: 8px;
+      }
+
+      .cls-12 {
+        fill: #231f20;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(0.5 46.81)">
+      <rect class="cls-1" width="1300" height="700"/>
     </clipPath>
-    <clipPath id="clip-path-2">
-      <rect x="589.54" y="245.88" width="296.88" height="187.92" transform="translate(1426.34 -91.75) rotate(123.19)" style="fill: none"/>
-    </clipPath>
-    <image id="brigitta" width="768" height="1024" xlink:href="./usable-svg/imgs/brigitta-img.jpg"/>
+    <image id="image" width="4032" height="3024" xlink:href="./usable-svg/imgs/memememememe2.png"/>
   </defs>
-  <title>Artboard4</title>
-  <g id="Artboard_4" data-name="Artboard 4">
+  <title>1-clipped</title>
+  <g class="cls-2">
     <g>
+      <rect class="cls-3" x="0.5" y="46.81" width="1300" height="700"/>
+      <circle class="cls-4" cx="819.5" cy="435.09" r="328.18"/>
+      <circle class="cls-4" cx="841.45" cy="420.74" r="328.18">
+      <animate
+          attributeName="r"
+          attributeType="XML"
+          to="600.18"
+          begin="0s"
+          dur="4s"
+          fill="freeze"
+          repeatCount="indefinite"
+        />
+      </circle>
+      <text class="cls-5" transform="translate(6.86 213)"><tspan class="cls-6">E</tspan><tspan class="cls-7" x="130.47" y="0">W</tspan><tspan x="359.93" y="0">A</tspan></text>
+      <text class="cls-8" transform="translate(19.02 221.77)"><tspan class="cls-6">E</tspan><tspan class="cls-7" x="130.47" y="0">W</tspan><tspan x="359.93" y="0">A</tspan></text>
+      <text class="cls-5" transform="translate(28.39 230.36)"><tspan class="cls-6">E</tspan><tspan class="cls-7" x="130.47" y="0">W</tspan><tspan x="359.93" y="0">A</tspan></text>
+      <use transform="translate(579.96 92.86) scale(0.17)" xlink:href="#image"/>
+      <rect class="cls-4" x="567.82" y="104.01" width="674.13" height="508.06"/>
+      <use transform="translate(545.3 75.02) scale(0.17)" xlink:href="#image"/>
+      <image width="669" height="3019" transform="translate(667.56 122.25) scale(0.17)" xlink:href="1-clipped1.png"/>
       <g>
-        <rect y="-1" width="1299" height="700" style="fill: #040322;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
-        <text transform="translate(-27.31 131.75) scale(0.94 1)" style="opacity: 0.3;font-size: 232.48370361328125px;fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800">Brigit                   
-          <tspan x="595.06" y="0" style="letter-spacing: 0.007813006989178011em">t</tspan>
-          <tspan x="683.26" y="0">a</tspan>
-        </text>
-        <image width="1000" height="667" transform="translate(332.5 66.5) scale(0.85)" xlink:href="./usable-svg/imgs/building.jpg" style="opacity: 0.3"/>
-        <rect x="262.5" y="209.5" width="372" height="456" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
-        <use transform="translate(90.5 82.46) scale(0.48)" xlink:href="#brigitta"/>
-        <use transform="translate(113.66 114.89) scale(0.48)" xlink:href="#brigitta"/>
-        <use transform="translate(143.78 147.32) scale(0.48)" xlink:href="#brigitta"/>
-        <polygon class="cross-artboard4" points="1167.08 152.83 1128.14 213.77 1077.48 181.4 1044.86 232.45 983.92 193.51 1016.54 142.46 965.49 109.84 1004.43 48.9 1055.48 81.52 1087.85 30.87 1148.79 69.81 1116.42 120.46 1167.08 152.83" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 30px">
-          <animateTransform attributeName="transform"
-                          attributeType="XML"
-                          type="rotate"
-                          from="0 1160 0"
-                          to="60 1160 100"
-                          dur="4s"
-                          repeatCount="indefinite"/>
-        </polygon>
-        <g class="large-circles-artboard4">
-          <circle cx="976.66" cy="525.74" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <circle cx="1040.73" cy="526.06" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <circle cx="1104.8" cy="525.85" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <circle cx="1168.88" cy="526.16" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <circle cx="1232.95" cy="525.95" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <circle cx="976.66" cy="585.46" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <circle cx="1040.73" cy="585.77" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <circle cx="1104.8" cy="585.57" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <circle cx="1168.88" cy="585.88" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <circle cx="1232.95" cy="585.67" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <circle cx="976.66" cy="646.42" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <circle cx="1040.73" cy="646.73" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <circle cx="1104.8" cy="646.53" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <circle cx="1168.88" cy="646.84" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <circle cx="1232.95" cy="646.63" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
-        </g>
-        <g class="cut-circle-artboard4" style="clip-path: url(#clip-path-2)">
-          <circle cx="691.38" cy="308.79" r="94.83" style="fill: none;stroke: #00c9dc;stroke-miterlimit: 10;stroke-width: 49px"/>
-        </g>
-        <g class="small-circles-artboard4" style="opacity: 0.6">
-          <circle cx="1149.43" cy="259.43" r="2.43" style="fill: #fff"/>
-          <circle cx="1159.15" cy="259.43" r="2.43" style="fill: #fff"/>
-          <circle cx="1167.89" cy="259.43" r="2.43" style="fill: #fff"/>
-          <circle cx="1177.61" cy="259.43" r="2.43" style="fill: #fff"/>
-          <circle cx="1187.33" cy="259.43" r="2.43" style="fill: #fff"/>
-          <circle cx="1196.07" cy="259.43" r="2.43" style="fill: #fff"/>
-          <circle cx="1149.43" cy="267.2" r="2.43" style="fill: #fff"/>
-          <circle cx="1159.15" cy="267.2" r="2.43" style="fill: #fff"/>
-          <circle cx="1167.89" cy="267.2" r="2.43" style="fill: #fff"/>
-          <circle cx="1177.61" cy="267.2" r="2.43" style="fill: #fff"/>
-          <circle cx="1187.33" cy="267.2" r="2.43" style="fill: #fff"/>
-          <circle cx="1196.07" cy="267.2" r="2.43" style="fill: #fff"/>
-          <circle cx="1149.43" cy="274.98" r="2.43" style="fill: #fff"/>
-          <circle cx="1159.15" cy="274.98" r="2.43" style="fill: #fff"/>
-          <circle cx="1167.89" cy="274.98" r="2.43" style="fill: #fff"/>
-          <circle cx="1177.61" cy="274.98" r="2.43" style="fill: #fff"/>
-          <circle cx="1187.33" cy="274.98" r="2.43" style="fill: #fff"/>
-          <circle cx="1196.07" cy="274.98" r="2.43" style="fill: #fff"/>
-          <circle cx="1149.43" cy="282.75" r="2.43" style="fill: #fff"/>
-          <circle cx="1159.15" cy="282.75" r="2.43" style="fill: #fff"/>
-          <circle cx="1167.89" cy="282.75" r="2.43" style="fill: #fff"/>
-          <circle cx="1177.61" cy="282.75" r="2.43" style="fill: #fff"/>
-          <circle cx="1187.33" cy="282.75" r="2.43" style="fill: #fff"/>
-          <circle cx="1196.07" cy="282.75" r="2.43" style="fill: #fff"/>
-          <circle cx="1149.43" cy="290.52" r="2.43" style="fill: #fff"/>
-          <circle cx="1159.15" cy="290.52" r="2.43" style="fill: #fff"/>
-          <circle cx="1167.89" cy="290.52" r="2.43" style="fill: #fff"/>
-          <circle cx="1177.61" cy="290.52" r="2.43" style="fill: #fff"/>
-          <circle cx="1187.33" cy="290.52" r="2.43" style="fill: #fff"/>
-          <circle cx="1196.07" cy="290.52" r="2.43" style="fill: #fff"/>
-          <circle cx="1149.43" cy="298.3" r="2.43" style="fill: #fff"/>
-          <circle cx="1159.15" cy="298.3" r="2.43" style="fill: #fff"/>
-          <circle cx="1167.89" cy="298.3" r="2.43" style="fill: #fff"/>
-          <circle cx="1177.61" cy="298.3" r="2.43" style="fill: #fff"/>
-          <circle cx="1187.33" cy="298.3" r="2.43" style="fill: #fff"/>
-          <circle cx="1196.07" cy="298.3" r="2.43" style="fill: #fff"/>
-          <circle cx="1149.43" cy="306.07" r="2.43" style="fill: #fff"/>
-          <circle cx="1159.15" cy="306.07" r="2.43" style="fill: #fff"/>
-          <circle cx="1167.89" cy="306.07" r="2.43" style="fill: #fff"/>
-          <circle cx="1177.61" cy="306.07" r="2.43" style="fill: #fff"/>
-          <circle cx="1187.33" cy="306.07" r="2.43" style="fill: #fff"/>
-          <circle cx="1196.07" cy="306.07" r="2.43" style="fill: #fff"/>
-          <circle cx="1149.43" cy="313.84" r="2.43" style="fill: #fff"/>
-          <circle cx="1159.15" cy="313.84" r="2.43" style="fill: #fff"/>
-          <circle cx="1167.89" cy="313.84" r="2.43" style="fill: #fff"/>
-          <circle cx="1177.61" cy="313.84" r="2.43" style="fill: #fff"/>
-          <circle cx="1187.33" cy="313.84" r="2.43" style="fill: #fff"/>
-          <circle cx="1196.07" cy="313.84" r="2.43" style="fill: #fff"/>
-          <circle cx="1149.43" cy="321.62" r="2.43" style="fill: #fff"/>
-          <circle cx="1159.15" cy="321.62" r="2.43" style="fill: #fff"/>
-          <circle cx="1167.89" cy="321.62" r="2.43" style="fill: #fff"/>
-          <circle cx="1177.61" cy="321.62" r="2.43" style="fill: #fff"/>
-          <circle cx="1187.33" cy="321.62" r="2.43" style="fill: #fff"/>
-          <circle cx="1196.07" cy="321.62" r="2.43" style="fill: #fff"/>
-          <circle cx="1149.43" cy="329.39" r="2.43" style="fill: #fff"/>
-          <circle cx="1159.15" cy="329.39" r="2.43" style="fill: #fff"/>
-          <circle cx="1167.89" cy="329.39" r="2.43" style="fill: #fff"/>
-          <circle cx="1177.61" cy="329.39" r="2.43" style="fill: #fff"/>
-          <circle cx="1187.33" cy="329.39" r="2.43" style="fill: #fff"/>
-          <circle cx="1196.07" cy="329.39" r="2.43" style="fill: #fff"/>
-          <circle cx="1149.43" cy="337.17" r="2.43" style="fill: #fff"/>
-          <circle cx="1159.15" cy="337.17" r="2.43" style="fill: #fff"/>
-          <circle cx="1167.89" cy="337.17" r="2.43" style="fill: #fff"/>
-          <circle cx="1177.61" cy="337.17" r="2.43" style="fill: #fff"/>
-          <circle cx="1187.33" cy="337.17" r="2.43" style="fill: #fff"/>
-          <circle cx="1196.07" cy="337.17" r="2.43" style="fill: #fff"/>
-          <circle cx="1149.43" cy="344.94" r="2.43" style="fill: #fff"/>
-          <circle cx="1159.15" cy="344.94" r="2.43" style="fill: #fff"/>
-          <circle cx="1167.89" cy="344.94" r="2.43" style="fill: #fff"/>
-          <circle cx="1177.61" cy="344.94" r="2.43" style="fill: #fff"/>
-          <circle cx="1187.33" cy="344.94" r="2.43" style="fill: #fff"/>
-          <circle cx="1196.07" cy="344.94" r="2.43" style="fill: #fff"/>
-          <circle cx="1149.43" cy="352.71" r="2.43" style="fill: #fff"/>
-          <circle cx="1159.15" cy="352.71" r="2.43" style="fill: #fff"/>
-          <circle cx="1167.89" cy="352.71" r="2.43" style="fill: #fff"/>
-          <circle cx="1177.61" cy="352.71" r="2.43" style="fill: #fff"/>
-          <circle cx="1187.33" cy="352.71" r="2.43" style="fill: #fff"/>
-          <circle cx="1196.07" cy="352.71" r="2.43" style="fill: #fff"/>
-        </g>
-        <circle class="sunset-circle-artboard4" cx="603" cy="671" r="84.5" style="fill: #ec002e">
-          <animate
-                attributeName="r"
-                attributeType="XML"
-                from="84.5"
-                to="100"
-                begin="0s"
-                dur="4s"
-                fill="freeze"
-                repeatCount="indefinite"
-              />
-        </circle>
-        <line class="sunset-line1-artboard4" x1="610.5" y1="637.5" x2="802.5" y2="637.5" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;opacity: 0.6">
-           <animate
-                attributeName="x1"
-                attributeType="XML"
-                from="610.5"
-                to="560"
-                begin="0s"
-                dur="4s"
-                fill="freeze"
-                repeatCount="indefinite"
-              />
-                    <animate
-                attributeName="x2"
-                attributeType="XML"
-                from="802.5"
-                to="750"
-                begin="0s"
-                dur="4s"
-                fill="freeze"
-                repeatCount="indefinite"
-              />
-        </line>
-        <line class="sunset-line2-artboard4" x1="591.5" y1="650.5" x2="783.5" y2="650.5" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;opacity: 0.6">
-                   <animate
-                attributeName="x1"
-                attributeType="XML"
-                from="591.5"
-                to="650"
-                begin="0s"
-                dur="4s"
-                fill="freeze"
-                repeatCount="indefinite"
-              />
-                    <animate
-                attributeName="x2"
-                attributeType="XML"
-                from="783.5"
-                to="860"
-                begin="0s"
-                dur="4s"
-                fill="freeze"
-                repeatCount="indefinite"
-              />
-        </line>
-        <line class="sunset-line3-artboard4" x1="641.5" y1="660.5" x2="833.5" y2="660.5" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;opacity: 0.6">
-                <animate
-                attributeName="x1"
-                attributeType="XML"
-                from="641.5"
-                to="560"
-                begin="0s"
-                dur="4s"
-                fill="freeze"
-                repeatCount="indefinite"
-              />
-                    <animate
-                attributeName="x2"
-                attributeType="XML"
-                from="863"
-                to="790"
-                begin="0s"
-                dur="4s"
-                fill="freeze"
-                repeatCount="indefinite"
-              />
-              </line>
-        <line class="sunset-line4-artboard4" x1="587.5" y1="624.5" x2="779.5" y2="624.5" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;opacity: 0.6">
-             <animate
-                attributeName="x1"
-                attributeType="XML"
-                from="587.5"
-                to="680"
-                begin="0s"
-                dur="4s"
-                fill="freeze"
-                repeatCount="indefinite"
-              />
-                    <animate
-                attributeName="x2"
-                attributeType="XML"
-                from="779.5"
-                to="820"
-                begin="0s"
-                dur="4s"
-                fill="freeze"
-                repeatCount="indefinite"
-              />
-        </line>
+        <polygon class="cls-9" points="721.53 146.94 716.74 146.94 716.74 142.15 715.09 142.15 715.09 146.94 710.3 146.94 710.3 148.59 715.09 148.59 715.09 153.38 716.74 153.38 716.74 148.59 721.53 148.59 721.53 146.94"/>
+        <polygon class="cls-9" points="737.87 147.03 733.08 147.03 733.08 142.24 731.42 142.24 731.42 147.03 726.63 147.03 726.63 148.69 731.42 148.69 731.42 153.48 733.08 153.48 733.08 148.69 737.87 148.69 737.87 147.03"/>
+        <polygon class="cls-9" points="754.2 146.65 749.41 146.65 749.41 141.86 747.75 141.86 747.75 146.65 742.96 146.65 742.96 148.31 747.75 148.31 747.75 153.1 749.41 153.1 749.41 148.31 754.2 148.31 754.2 146.65"/>
+        <polygon class="cls-9" points="770.54 146.75 765.75 146.75 765.75 141.95 764.09 141.95 764.09 146.75 759.3 146.75 759.3 148.4 764.09 148.4 764.09 153.19 765.75 153.19 765.75 148.4 770.54 148.4 770.54 146.75"/>
+        <polygon class="cls-9" points="786.87 146.84 782.08 146.84 782.08 142.05 780.42 142.05 780.42 146.84 775.63 146.84 775.63 148.5 780.42 148.5 780.42 153.29 782.08 153.29 782.08 148.5 786.87 148.5 786.87 146.84"/>
+        <polygon class="cls-9" points="803.2 146.55 798.41 146.55 798.41 141.76 796.76 141.76 796.76 146.55 791.97 146.55 791.97 148.21 796.76 148.21 796.76 153 798.41 153 798.41 148.21 803.2 148.21 803.2 146.55"/>
+        <polygon class="cls-9" points="721.53 162.23 716.74 162.23 716.74 157.44 715.09 157.44 715.09 162.23 710.3 162.23 710.3 163.89 715.09 163.89 715.09 168.68 716.74 168.68 716.74 163.89 721.53 163.89 721.53 162.23"/>
+        <polygon class="cls-9" points="737.87 162.33 733.08 162.33 733.08 157.54 731.42 157.54 731.42 162.33 726.63 162.33 726.63 163.99 731.42 163.99 731.42 168.78 733.08 168.78 733.08 163.99 737.87 163.99 737.87 162.33"/>
+        <polygon class="cls-9" points="754.2 161.95 749.41 161.95 749.41 157.16 747.75 157.16 747.75 161.95 742.96 161.95 742.96 163.6 747.75 163.6 747.75 168.39 749.41 168.39 749.41 163.6 754.2 163.6 754.2 161.95"/>
+        <polygon class="cls-9" points="770.54 162.04 765.75 162.04 765.75 157.25 764.09 157.25 764.09 162.04 759.3 162.04 759.3 163.7 764.09 163.7 764.09 168.49 765.75 168.49 765.75 163.7 770.54 163.7 770.54 162.04"/>
+        <polygon class="cls-9" points="786.87 162.14 782.08 162.14 782.08 157.35 780.42 157.35 780.42 162.14 775.63 162.14 775.63 163.79 780.42 163.79 780.42 168.59 782.08 168.59 782.08 163.79 786.87 163.79 786.87 162.14"/>
+        <polygon class="cls-9" points="803.2 161.85 798.41 161.85 798.41 157.06 796.76 157.06 796.76 161.85 791.97 161.85 791.97 163.51 796.76 163.51 796.76 168.3 798.41 168.3 798.41 163.51 803.2 163.51 803.2 161.85"/>
+        <polygon class="cls-9" points="721.53 177.42 716.74 177.42 716.74 172.63 715.09 172.63 715.09 177.42 710.3 177.42 710.3 179.08 715.09 179.08 715.09 183.87 716.74 183.87 716.74 179.08 721.53 179.08 721.53 177.42"/>
+        <polygon class="cls-9" points="737.87 177.51 733.08 177.51 733.08 172.72 731.42 172.72 731.42 177.51 726.63 177.51 726.63 179.17 731.42 179.17 731.42 183.96 733.08 183.96 733.08 179.17 737.87 179.17 737.87 177.51"/>
+        <polygon class="cls-9" points="754.2 177.13 749.41 177.13 749.41 172.34 747.75 172.34 747.75 177.13 742.96 177.13 742.96 178.79 747.75 178.79 747.75 183.58 749.41 183.58 749.41 178.79 754.2 178.79 754.2 177.13"/>
+        <polygon class="cls-9" points="770.54 177.23 765.75 177.23 765.75 172.44 764.09 172.44 764.09 177.23 759.3 177.23 759.3 178.88 764.09 178.88 764.09 183.68 765.75 183.68 765.75 178.88 770.54 178.88 770.54 177.23"/>
+        <polygon class="cls-9" points="786.87 177.32 782.08 177.32 782.08 172.53 780.42 172.53 780.42 177.32 775.63 177.32 775.63 178.98 780.42 178.98 780.42 183.77 782.08 183.77 782.08 178.98 786.87 178.98 786.87 177.32"/>
+        <polygon class="cls-9" points="803.2 177.03 798.41 177.03 798.41 172.24 796.76 172.24 796.76 177.03 791.97 177.03 791.97 178.69 796.76 178.69 796.76 183.48 798.41 183.48 798.41 178.69 803.2 178.69 803.2 177.03"/>
+        <polygon class="cls-9" points="721.18 193.09 716.39 193.09 716.39 188.29 714.73 188.29 714.73 193.09 709.94 193.09 709.94 194.74 714.73 194.74 714.73 199.53 716.39 199.53 716.39 194.74 721.18 194.74 721.18 193.09"/>
+        <polygon class="cls-9" points="737.51 193.18 732.72 193.18 732.72 188.39 731.07 188.39 731.07 193.18 726.27 193.18 726.27 194.84 731.07 194.84 731.07 199.63 732.72 199.63 732.72 194.84 737.51 194.84 737.51 193.18"/>
+        <polygon class="cls-9" points="753.85 192.8 749.05 192.8 749.05 188.01 747.4 188.01 747.4 192.8 742.61 192.8 742.61 194.45 747.4 194.45 747.4 199.24 749.05 199.24 749.05 194.45 753.85 194.45 753.85 192.8"/>
+        <polygon class="cls-9" points="770.18 192.89 765.39 192.89 765.39 188.1 763.73 188.1 763.73 192.89 758.94 192.89 758.94 194.55 763.73 194.55 763.73 199.34 765.39 199.34 765.39 194.55 770.18 194.55 770.18 192.89"/>
+        <polygon class="cls-9" points="786.51 192.99 781.72 192.99 781.72 188.2 780.07 188.2 780.07 192.99 775.27 192.99 775.27 194.65 780.07 194.65 780.07 199.44 781.72 199.44 781.72 194.65 786.51 194.65 786.51 192.99"/>
+        <polygon class="cls-9" points="802.85 192.7 798.06 192.7 798.06 187.91 796.4 187.91 796.4 192.7 791.61 192.7 791.61 194.36 796.4 194.36 796.4 199.15 798.06 199.15 798.06 194.36 802.85 194.36 802.85 192.7"/>
+        <polygon class="cls-9" points="721.53 209.57 716.74 209.57 716.74 204.78 715.09 204.78 715.09 209.57 710.3 209.57 710.3 211.23 715.09 211.23 715.09 216.02 716.74 216.02 716.74 211.23 721.53 211.23 721.53 209.57"/>
+        <polygon class="cls-9" points="737.87 209.67 733.08 209.67 733.08 204.88 731.42 204.88 731.42 209.67 726.63 209.67 726.63 211.32 731.42 211.32 731.42 216.11 733.08 216.11 733.08 211.32 737.87 211.32 737.87 209.67"/>
+        <polygon class="cls-9" points="754.2 209.28 749.41 209.28 749.41 204.49 747.75 204.49 747.75 209.28 742.96 209.28 742.96 210.94 747.75 210.94 747.75 215.73 749.41 215.73 749.41 210.94 754.2 210.94 754.2 209.28"/>
+        <polygon class="cls-9" points="770.54 209.38 765.75 209.38 765.75 204.59 764.09 204.59 764.09 209.38 759.3 209.38 759.3 211.03 764.09 211.03 764.09 215.83 765.75 215.83 765.75 211.03 770.54 211.03 770.54 209.38"/>
+        <polygon class="cls-9" points="786.87 209.47 782.08 209.47 782.08 204.68 780.42 204.68 780.42 209.47 775.63 209.47 775.63 211.13 780.42 211.13 780.42 215.92 782.08 215.92 782.08 211.13 786.87 211.13 786.87 209.47"/>
+        <polygon class="cls-9" points="803.2 209.19 798.41 209.19 798.41 204.4 796.76 204.4 796.76 209.19 791.97 209.19 791.97 210.84 796.76 210.84 796.76 215.63 798.41 215.63 798.41 210.84 803.2 210.84 803.2 209.19"/>
       </g>
+      <image width="669" height="3019" transform="translate(628.16 149.99) scale(0.17)" xlink:href="./usable-svg/imgs/1-clipped2.png"/>
+      <image width="669" height="3019" transform="translate(592.1 181.45) scale(0.17)" xlink:href="./usable-svg/imgs/1-clipped3.png"/>
+      <image width="243" height="3019" transform="translate(834.59 122.25) scale(0.17)" xlink:href="./usable-svg/imgs/1-clipped4.png"/>
+      <image width="79" height="3019" transform="translate(947.69 121.25) scale(0.17)" xlink:href="./usable-svg/imgs/1-clipped5.png"/>
+      <g>
+        <polygon class="cls-10" points="574.18 511.54 567.98 511.54 567.98 505.34 565.84 505.34 565.84 511.54 559.65 511.54 559.65 513.68 565.84 513.68 565.84 519.87 567.98 519.87 567.98 513.68 574.18 513.68 574.18 511.54"/>
+        <polygon class="cls-10" points="595.29 511.66 589.1 511.66 589.1 505.47 586.96 505.47 586.96 511.66 580.76 511.66 580.76 513.8 586.96 513.8 586.96 520 589.1 520 589.1 513.8 595.29 513.8 595.29 511.66"/>
+        <polygon class="cls-10" points="616.41 511.17 610.22 511.17 610.22 504.97 608.07 504.97 608.07 511.17 601.88 511.17 601.88 513.31 608.07 513.31 608.07 519.5 610.22 519.5 610.22 513.31 616.41 513.31 616.41 511.17"/>
+        <polygon class="cls-10" points="637.53 511.29 631.33 511.29 631.33 505.1 629.19 505.1 629.19 511.29 623 511.29 623 513.43 629.19 513.43 629.19 519.63 631.33 519.63 631.33 513.43 637.53 513.43 637.53 511.29"/>
+        <polygon class="cls-10" points="658.64 511.41 652.45 511.41 652.45 505.22 650.31 505.22 650.31 511.41 644.11 511.41 644.11 513.55 650.31 513.55 650.31 519.75 652.45 519.75 652.45 513.55 658.64 513.55 658.64 511.41"/>
+        <polygon class="cls-10" points="679.76 511.04 673.57 511.04 673.57 504.85 671.42 504.85 671.42 511.04 665.23 511.04 665.23 513.18 671.42 513.18 671.42 519.38 673.57 519.38 673.57 513.18 679.76 513.18 679.76 511.04"/>
+        <polygon class="cls-10" points="574.18 531.31 567.98 531.31 567.98 525.12 565.84 525.12 565.84 531.31 559.65 531.31 559.65 533.46 565.84 533.46 565.84 539.65 567.98 539.65 567.98 533.46 574.18 533.46 574.18 531.31"/>
+        <polygon class="cls-10" points="595.29 531.44 589.1 531.44 589.1 525.24 586.96 525.24 586.96 531.44 580.76 531.44 580.76 533.58 586.96 533.58 586.96 539.77 589.1 539.77 589.1 533.58 595.29 533.58 595.29 531.44"/>
+        <polygon class="cls-10" points="616.41 530.94 610.22 530.94 610.22 524.75 608.07 524.75 608.07 530.94 601.88 530.94 601.88 533.08 608.07 533.08 608.07 539.28 610.22 539.28 610.22 533.08 616.41 533.08 616.41 530.94"/>
+        <polygon class="cls-10" points="637.53 531.07 631.33 531.07 631.33 524.87 629.19 524.87 629.19 531.07 623 531.07 623 533.21 629.19 533.21 629.19 539.4 631.33 539.4 631.33 533.21 637.53 533.21 637.53 531.07"/>
+        <polygon class="cls-10" points="658.64 531.19 652.45 531.19 652.45 525 650.31 525 650.31 531.19 644.11 531.19 644.11 533.33 650.31 533.33 650.31 539.52 652.45 539.52 652.45 533.33 658.64 533.33 658.64 531.19"/>
+        <polygon class="cls-10" points="679.76 530.82 673.57 530.82 673.57 524.62 671.42 524.62 671.42 530.82 665.23 530.82 665.23 532.96 671.42 532.96 671.42 539.15 673.57 539.15 673.57 532.96 679.76 532.96 679.76 530.82"/>
+        <polygon class="cls-10" points="574.18 550.95 567.98 550.95 567.98 544.75 565.84 544.75 565.84 550.95 559.65 550.95 559.65 553.09 565.84 553.09 565.84 559.28 567.98 559.28 567.98 553.09 574.18 553.09 574.18 550.95"/>
+        <polygon class="cls-10" points="595.29 551.07 589.1 551.07 589.1 544.88 586.96 544.88 586.96 551.07 580.76 551.07 580.76 553.21 586.96 553.21 586.96 559.41 589.1 559.41 589.1 553.21 595.29 553.21 595.29 551.07"/>
+        <polygon class="cls-10" points="616.41 550.57 610.22 550.57 610.22 544.38 608.07 544.38 608.07 550.57 601.88 550.57 601.88 552.72 608.07 552.72 608.07 558.91 610.22 558.91 610.22 552.72 616.41 552.72 616.41 550.57"/>
+        <polygon class="cls-10" points="637.53 550.7 631.33 550.7 631.33 544.5 629.19 544.5 629.19 550.7 623 550.7 623 552.84 629.19 552.84 629.19 559.03 631.33 559.03 631.33 552.84 637.53 552.84 637.53 550.7"/>
+        <polygon class="cls-10" points="658.64 550.82 652.45 550.82 652.45 544.63 650.31 544.63 650.31 550.82 644.11 550.82 644.11 552.96 650.31 552.96 650.31 559.16 652.45 559.16 652.45 552.96 658.64 552.96 658.64 550.82"/>
+        <polygon class="cls-10" points="679.76 550.45 673.57 550.45 673.57 544.25 671.42 544.25 671.42 550.45 665.23 550.45 665.23 552.59 671.42 552.59 671.42 558.78 673.57 558.78 673.57 552.59 679.76 552.59 679.76 550.45"/>
+        <polygon class="cls-10" points="573.72 571.2 567.52 571.2 567.52 565 565.38 565 565.38 571.2 559.19 571.2 559.19 573.34 565.38 573.34 565.38 579.53 567.52 579.53 567.52 573.34 573.72 573.34 573.72 571.2"/>
+        <polygon class="cls-10" points="594.83 571.32 588.64 571.32 588.64 565.13 586.5 565.13 586.5 571.32 580.3 571.32 580.3 573.47 586.5 573.47 586.5 579.66 588.64 579.66 588.64 573.47 594.83 573.47 594.83 571.32"/>
+        <polygon class="cls-10" points="615.95 570.83 609.75 570.83 609.75 564.63 607.61 564.63 607.61 570.83 601.42 570.83 601.42 572.97 607.61 572.97 607.61 579.16 609.75 579.16 609.75 572.97 615.95 572.97 615.95 570.83"/>
+        <polygon class="cls-10" points="637.07 570.95 630.87 570.95 630.87 564.76 628.73 564.76 628.73 570.95 622.54 570.95 622.54 573.09 628.73 573.09 628.73 579.29 630.87 579.29 630.87 573.09 637.07 573.09 637.07 570.95"/>
+        <polygon class="cls-10" points="658.18 571.08 651.99 571.08 651.99 564.88 649.85 564.88 649.85 571.08 643.65 571.08 643.65 573.22 649.85 573.22 649.85 579.41 651.99 579.41 651.99 573.22 658.18 573.22 658.18 571.08"/>
+        <polygon class="cls-10" points="679.3 570.7 673.11 570.7 673.11 564.51 670.96 564.51 670.96 570.7 664.77 570.7 664.77 572.84 670.96 572.84 670.96 579.04 673.11 579.04 673.11 572.84 679.3 572.84 679.3 570.7"/>
+        <polygon class="cls-10" points="574.18 592.51 567.98 592.51 567.98 586.32 565.84 586.32 565.84 592.51 559.65 592.51 559.65 594.65 565.84 594.65 565.84 600.85 567.98 600.85 567.98 594.65 574.18 594.65 574.18 592.51"/>
+        <polygon class="cls-10" points="595.29 592.64 589.1 592.64 589.1 586.44 586.96 586.44 586.96 592.64 580.76 592.64 580.76 594.78 586.96 594.78 586.96 600.97 589.1 600.97 589.1 594.78 595.29 594.78 595.29 592.64"/>
+        <polygon class="cls-10" points="616.41 592.14 610.22 592.14 610.22 585.95 608.07 585.95 608.07 592.14 601.88 592.14 601.88 594.28 608.07 594.28 608.07 600.48 610.22 600.48 610.22 594.28 616.41 594.28 616.41 592.14"/>
+        <polygon class="cls-10" points="637.53 592.26 631.33 592.26 631.33 586.07 629.19 586.07 629.19 592.26 623 592.26 623 594.4 629.19 594.4 629.19 600.6 631.33 600.6 631.33 594.4 637.53 594.4 637.53 592.26"/>
+        <polygon class="cls-10" points="658.64 592.39 652.45 592.39 652.45 586.19 650.31 586.19 650.31 592.39 644.11 592.39 644.11 594.53 650.31 594.53 650.31 600.72 652.45 600.72 652.45 594.53 658.64 594.53 658.64 592.39"/>
+        <polygon class="cls-10" points="679.76 592.01 673.57 592.01 673.57 585.82 671.42 585.82 671.42 592.01 665.23 592.01 665.23 594.16 671.42 594.16 671.42 600.35 673.57 600.35 673.57 594.16 679.76 594.16 679.76 592.01"/>
+      </g>
+      <polyline class="cls-11" points="796.71 632.84 837.82 658.52 879.47 632.84 919.98 658.52 953.06 632.84 988.57 658.52"/>
+      <path class="cls-12" d="M1299.84-41.81c3.22,0,3.22-5,0-5s-3.22,5,0,5Z" transform="translate(0.5 46.81)"/>
     </g>
   </g>
 </svg>

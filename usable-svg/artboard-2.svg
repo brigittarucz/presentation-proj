@@ -1,115 +1,177 @@
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1300 700">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1300 700">
   <defs>
-    <clipPath id="clip-path">
-      <rect x="-0.5" y="0.5" width="1300" height="699" style="fill: none"/>
+    <style>
+      .cls-1, .cls-13, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #040322;
+        stroke: #231f20;
+      }
+
+      .cls-13, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke: #f29f99;
+      }
+
+      .cls-5 {
+        font-size: 100.8px;
+        stroke: #494458;
+      }
+
+      .cls-16, .cls-5 {
+        font-family: Montserrat-Black, Montserrat;
+        font-weight: 800;
+      }
+
+      .cls-6 {
+        stroke: #f7edda;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        stroke: #d92838;
+      }
+
+      .cls-14 {
+        opacity: 0.23;
+      }
+
+      .cls-15 {
+        opacity: 0.73;
+      }
+
+      .cls-16 {
+        opacity: 0.69;
+        font-size: 60.12px;
+        fill: #f7edda;
+      }
+
+      .cls-17 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-19 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-20 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(713.82 0.5)">
+      <rect class="cls-1" x="0" width="1300" height="700"/>
     </clipPath>
   </defs>
-  <title>Artboard5</title>
-  <g id="Artboard_5" data-name="Artboard 5">
-    <g style="clip-path: url(#clip-path)">
+  <title>2-clipped</title>
+  <g class="cls-2">
+    <g>
+      <rect class="cls-3" x="713.82" y="0.5" width="1300" height="700"/>
       <g>
-        <rect width="1300" height="701" style="fill: #040322"/>
-        <g>
-          <text transform="translate(316.01 114.34)" style="font-size: 90.25788116455078px;fill: none;stroke: #00c9dc;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">J
-            
-            
-            <tspan x="37.55" y="0" style="letter-spacing: -0.011230500179004949em">a</tspan>
-            <tspan x="89.46" y="0" style="letter-spacing: -0.01513676111083276em">v</tspan>
-            <tspan x="133.8" y="0">aScript</tspan>
-          </text>
-          <text transform="translate(306.01 100.3)" style="font-size: 90.25788116455078px;fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">J
-            
-            
-            <tspan x="37.55" y="0" style="letter-spacing: -0.011230500179004949em">a</tspan>
-            <tspan x="89.46" y="0" style="letter-spacing: -0.01513676111083276em">v</tspan>
-            <tspan x="133.8" y="0">aScript</tspan>
-          </text>
-        </g>
-        <g>
-          <text transform="translate(1018.01 190.55)" style="font-size: 60.17192077636719px;fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">HTML5</text>
-          <text transform="translate(1028.01 202.58)" style="font-size: 60.17192077636719px;fill: none;stroke: #00c9dc;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">HTML5</text>
-        </g>
-        <line x1="1133.5" y1="0.5" x2="907.5" y2="155.94" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
-        <line x1="1111.5" y1="48.64" x2="885.5" y2="204.08" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
-        <g>
-          <text transform="translate(896.01 651.55)" style="font-size: 100.28652954101562px;fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">CSS3</text>
-          <text transform="translate(906.01 661.58)" style="font-size: 100.28652954101562px;fill: none;stroke: #00c9dc;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">CSS3</text>
-        </g>
-        <g>
-          <polygon points="450.2 568.62 124.94 568.62 126.52 565.88 336.84 451.07 230.24 385.72 287.57 286.14 450.2 568.62" style="fill: #ec002e;stroke: #ec002e;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <polygon points="314.05 451.07 103.74 565.88 207.46 385.72 314.05 451.07" style="fill: none;stroke: #ec002e;stroke-miterlimit: 10;stroke-width: 5px"/>
-          <polygon points="296.77 450.46 106.92 554.1 38.9 591.23 46.27 296.88 200.55 391.47 296.77 450.46" style="fill: #ec002e"/>
-        </g>
-        <g>
-          <text transform="translate(185.01 338.15)" style="font-size: 113.32377624511719px;fill: none;stroke: #00c9dc;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">
-            <tspan style="letter-spacing: -0.0068359571062624495em">S</tspan>
-            <tspan x="68.06" y="0">ASS</tspan>
-          </text>
-          <text transform="translate(178.01 321.1)" style="font-size: 113.32377624511719px;fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">
-            <tspan style="letter-spacing: -0.0068359571062624495em">S</tspan>
-            <tspan x="68.06" y="0">ASS</tspan>
-          </text>
-        </g>
-        <rect x="494.5" y="193.05" width="344" height="445.27" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
-        <rect x="505.5" y="180.01" width="321" height="467.34" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
-        <image width="498" height="693" transform="translate(515.5 157.95) scale(0.68 0.68)" xlink:href="./usable-svg/imgs/laptop-photo.jpg"/>
-        <g class="text-svg">
-        <text transform="translate(804.37 346.81)" style="font-size: 100.28652954101562px;fill: #fff;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;letter-spacing: 0.002998055417231142em">Hello
-          <tspan x="0" y="89.25">there,</tspan>
-        </text>
-        </g>
-        <g>
-          <ellipse cx="16.7" cy="12.61" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="40.48" cy="12.61" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="64.49" cy="12.61" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="88.03" cy="12.61" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="111.81" cy="12.61" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="16.7" cy="36.93" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="40.48" cy="36.93" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="64.49" cy="36.93" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="88.03" cy="36.93" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="111.81" cy="36.93" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="16.7" cy="61.26" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="40.48" cy="61.26" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="64.49" cy="61.26" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="88.03" cy="61.26" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="111.81" cy="61.26" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="16.7" cy="85.58" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="40.48" cy="85.58" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="64.49" cy="85.58" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="88.03" cy="85.58" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="111.81" cy="85.58" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="16.7" cy="109.9" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="40.48" cy="109.9" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="64.49" cy="109.9" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="88.03" cy="109.9" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="111.81" cy="109.9" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="16.7" cy="134.22" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="40.48" cy="134.22" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="64.49" cy="134.22" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="88.03" cy="134.22" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-          <ellipse cx="111.81" cy="134.22" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-        </g>
-        <line x1="88" y1="245.7" x2="253" y2="184.53" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-        <line x1="198" y1="220.63" x2="358" y2="162.46" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-        <line x1="222" y1="613.75" x2="407" y2="646.85" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-        <line x1="149" y1="617.76" x2="278" y2="642.84" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
-        <rect x="-0.5" y="0.5" width="1303" height="700" style="fill: none"/>
+        <circle class="cls-2" cx="451.38" cy="507.26" r="25">
+          <animate
+            attributeName="r"
+            attributeType="XML"
+            from="25"
+            to="82.21"
+            begin="0s"
+            dur="2s"
+            fill="freeze"
+            repeatCount="indefinite"
+          />
+          <animate
+            attributeName="stroke"
+            attributeType="XML"
+            to="#d92838"
+            begin="0s"
+            dur="2s"
+            fill="freeze"
+            repeatCount="indefinite"
+          />
+        </circle>
+        <circle class="cls-2" cx="451.38" cy="507.26" r="58.13">
+          <animate
+            attributeName="r"
+            attributeType="XML"
+            from="15"
+            to="58.13"
+            begin="0s"
+            dur="2s"
+            fill="freeze"
+            repeatCount="indefinite"
+          />
+          <animate
+            attributeName="stroke"
+            attributeType="XML"
+            to="#d92838"
+            begin="0s"
+            dur="2s"
+            fill="freeze"
+            repeatCount="indefinite"
+          />
+        </circle>
       </g>
+      <text class="cls-5" transform="translate(0.5 685.9)">GROUPGUESSGROUP<tspan class="cls-6" x="1140.84" y="0">GUESS</tspan><tspan x="1497.67" y="0">GROUPGUESSGROUPGUESS</tspan></text>
+      <text class="cls-5" transform="translate(720.39 89.14)"><tspan class="cls-7">T<tspan class="cls-8" x="62.4" y="0">ASKNUMBER:</tspan></tspan><tspan x="0" y="120.96">1</tspan><tspan class="cls-9" x="42.13" y="120.96">4C</tspan><tspan class="cls-10" x="190.91" y="120.96">.</tspan><tspan class="cls-11" x="220.04" y="120.96">0</tspan><tspan x="288.78" y="120.96">1</tspan><tspan class="cls-10" x="330.92" y="120.96">.</tspan><tspan class="cls-12" x="360.05" y="120.96">05</tspan></text>
+      <g>
+        <rect class="cls-13" x="1576.77" y="72.99" width="259.22" height="259.22"/>
+        <rect class="cls-13" x="1601.41" y="97.63" width="209.93" height="209.93"/>
+        <rect class="cls-13" x="1626.23" y="122.46" width="160.29" height="160.29"/>
+      </g>
+      <g>
+        <image class="cls-14" width="1796" height="1130" transform="translate(1222.1 145.15) scale(0.29 0.3)" xlink:href="./usable-svg/imgs/2-clipped1.png"/>
+        <image class="cls-15" width="1796" height="1130" transform="translate(1197.35 170.06) scale(0.29 0.3)" xlink:href="./usable-svg/imgs/2-clipped2.png"/>
+        <image width="1796" height="1130" transform="translate(1164.7 202.6) scale(0.3)" xlink:href="./usable-svg/imgs/codevid.png"/>
+      </g>
+      <g id="Rect_Cut" data-name="Rect Cut">
+        <g>
+          <g>
+            <rect class="cls-4" x="985.57" y="569.21" width="64.04" height="64.04"/>
+            <line class="cls-4" x1="985.5" y1="569.14" x2="1049.54" y2="633.33"/>
+          </g>
+          <line class="cls-4" x1="985.5" y1="633.33" x2="1049.54" y2="569.14"/>
+        </g>
+      </g>
+      <text class="cls-16" transform="translate(806.05 122.46)"><tspan class="cls-17">T</tspan><tspan x="37.21" y="0">ASKNUMBER:</tspan><tspan x="0" y="72.14">1</tspan><tspan class="cls-18" x="25.13" y="72.14">4C</tspan><tspan class="cls-19" x="113.86" y="72.14">.</tspan><tspan class="cls-20" x="131.23" y="72.14">0</tspan><tspan class="cls-21" x="172.23" y="72.14">1</tspan><tspan class="cls-19" x="197.36" y="72.14">.</tspan><tspan x="214.73" y="72.14">05</tspan></text>
     </g>
-    <ellipse cx="1228.5" cy="665.4" rx="156" ry="156.45" style="fill: #ec002e;stroke: #ec002e;stroke-miterlimit: 10;stroke-width: 2px">
-      <animate
-                attributeName="r"
-                attributeType="XML"
-                from="25"
-                to="82.21"
-                begin="0s"
-                dur="2s"
-                fill="freeze"
-                repeatCount="indefinite"
-              />
-    </ellipse>
   </g>
 </svg>
